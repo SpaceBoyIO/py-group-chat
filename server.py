@@ -1,1 +1,1 @@
-import sockets
+print("Hello World!")
